@@ -1,2 +1,4 @@
 # Sudoku
-Simple sudoku solver I made after beginning to learn python a couple months ago. This was my first project using recursion and backtracking and I really enjoyed figuring out how to solve this one. I will definitely continue to improve on it in the future.
+Sudoku solver using recursion and backtracking.
+
+![Solved Sudoku](https://user-images.githubusercontent.com/78132465/107691144-50078200-6c68-11eb-9d6d-f6f686d30c18.png)
